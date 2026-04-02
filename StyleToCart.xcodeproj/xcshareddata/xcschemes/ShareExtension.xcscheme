@@ -16,7 +16,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "3CEED1062F7E095F001F716F"
+               BlueprintIdentifier = "3CEED1692F7E2F64001F716F"
                BuildableName = "ShareExtension.appex"
                BlueprintName = "ShareExtension"
                ReferencedContainer = "container:StyleToCart.xcodeproj">
